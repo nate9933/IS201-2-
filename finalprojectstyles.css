@@ -1,48 +1,48 @@
 body {
-    font-family: 'Arial', sans-serif;
-    color: #001f3f; 
-    background-color: #f0d095; 
+    font-family: 'Arial', sans-serif !important;
+    color: #001f3f !important; 
+    background-color: #f0d095 !important; 
 }
 
 h1, h2, h3, p, a {
-    color: #093e74; 
+    color: #09500d !important; 
 }
 
 .container {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 20px;
+    max-width: 960px !important;
+    margin: 0 auto !important;
+    padding: 20px !important;
 }
 
 .left_column {
-    float: left;
-    width: 20%; 
-    background-color: #f0f0f0;
-    padding: 10px;
-    border: 1px solid #cccccc;
-    margin-right: 20px;
+    float: left !important;
+    width: 20% !important; 
+    background-color: #a1dfea !important;
+    padding: 10px !important;
+    border: 1px solid #a1dfea !important;
+    margin-right: 20px !important;
 }
 
 .right_column {
-    float: right;
-    width: 75%; 
-    background-color: #f9f9f9;
-    padding: 10px;
-    border: 1px solid #cccccc;
+    float: right !important;
+    width: 75% !important; 
+    background-color: #a1dfea !important;
+    padding: 10px !important;
+    border: 1px solid #a1dfea !important;
 }
 
 
 .button {
-    display: inline-block;
-    padding: 8px 16px;
-    background-color: #001f3f; 
-    color: #ffffff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    text-decoration: none;
+    display: inline-block !important;
+    padding: 8px 16px !important;
+    background-color: #001f3f !important; 
+    color: #ffffff !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    text-decoration: none !important;
 }
 
 .hover_over_button {
-    color: #093e74; 
+    color: #093e74 !important; 
 }
